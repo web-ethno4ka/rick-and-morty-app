@@ -1,0 +1,9 @@
+.wrapper {
+  margin: 0 auto;
+  width: 26rem;
+}
+
+.listItem {
+  display: flex;
+  justify-content: space-between;
+}

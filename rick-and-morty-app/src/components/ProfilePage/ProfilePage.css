@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  padding: 1.4rem;
+  width: 22rem;
+  border: 2px solid #b39f6b;
+  background: #fffce9;
+  border-radius: 1rem;
+}
+
+p {
+  margin: 0.4rem;
+}
